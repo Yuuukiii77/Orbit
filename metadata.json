@@ -1,0 +1,6 @@
+{
+  "name": "Orbit",
+  "description": "Control your life. Own your future. A premium minimalist NASA-inspired time management system to align actions with identity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
